@@ -1,0 +1,8 @@
+.img-disney{
+    width: 300px;  /* Ancho fijo de la imagen */
+    height: 200px; /* Alto fijo de la imagen */
+    object-fit: cover; /* Mantiene el aspecto, recorta si es necesario */
+    border-radius: 10px; /* Opcional: Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Opcional: Sombra */
+    
+}
